@@ -1,0 +1,4 @@
+2014-10-03 18:46:26 INFO  Log4jAllFeature:28 - Info level message
+2014-10-03 18:46:26 WARN  Log4jAllFeature:29 - Warn level message
+2014-10-03 18:46:26 ERROR Log4jAllFeature:30 - Error level message
+2014-10-03 18:46:29 ERROR Log4jAllFeature:31 - Error level message
