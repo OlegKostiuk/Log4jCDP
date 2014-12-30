@@ -1,4 +1,5 @@
-2014-10-03 18:46:26 INFO  Log4jAllFeature:28 - Info level message
-2014-10-03 18:46:26 WARN  Log4jAllFeature:29 - Warn level message
-2014-10-03 18:46:26 ERROR Log4jAllFeature:30 - Error level message
-2014-10-03 18:46:29 ERROR Log4jAllFeature:31 - Error level message
+2014-12-30 12:34:18 INFO  Log4jAllFeature:31 - Info level message
+2014-12-30 12:34:19 CUSTOM Log4jAllFeature:32 - My custom level message
+2014-12-30 12:34:19 WARN  Log4jAllFeature:33 - Warn level message
+2014-12-30 12:34:19 ERROR Log4jAllFeature:34 - Error level message
+2014-12-30 12:34:22 FATAL Log4jAllFeature:35 - Fatal level message
